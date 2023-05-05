@@ -1,1 +1,1 @@
-alert('sos');
+import Flickity from 'flickity';
